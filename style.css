@@ -1,0 +1,49 @@
+body {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: #34495e;
+    font-size: 18px;
+    
+}
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: purple;
+}
+
+
+a:hover {
+    text-decoration: underline;
+    color: green;
+}
+
+
+
+div p:hover {
+   
+    color:  green;
+}
+div {
+    background-color: rgba(255,0, 0, 0);
+
+}
+#first {color: blue;}
+#second {color: green;}
+.article {color: brown;}
+h2, h3 ,h4{color:black;}
+
+     
+   
